@@ -55,6 +55,11 @@ h1 {
 }
 
 /* Todo List */
+.todo-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 /* Todo Item with Checkbox */
 .todo-item {
     background-color: #f9f9f9;
